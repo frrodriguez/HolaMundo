@@ -5,7 +5,7 @@ namespace HolaMundo {
 		public static void Main(string[] args)
 		{
 			string msg = "Hola, nuevo mundo!";
-			Console.WriteLine( msg );
+			Console.Write( msg + "\n" );
 		}
 	}
 }
