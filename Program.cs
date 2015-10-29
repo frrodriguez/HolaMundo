@@ -4,7 +4,7 @@ namespace HolaMundo {
 	class MainClass {
 		public static void Main(string[] args)
 		{
-			Console.WriteLine( "Hola, mundo!" );
+			Console.WriteLine( "Hola, nuevo mundo!" );
 		}
 	}
 }
