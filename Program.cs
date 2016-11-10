@@ -8,11 +8,7 @@ namespace HolaMundo {
 		{
 			string msg = Mensaje;
 
-			Output( msg );
-		}
-
-		public static void Output(string msg) {
-			Console.Write( msg + "\n" );
+			Salida.Output( msg );
 		}
 	}
 }
