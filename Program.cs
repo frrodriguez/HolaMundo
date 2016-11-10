@@ -2,7 +2,7 @@ using System;
 
 namespace HolaMundo {
 	class MainClass {
-		public const string Mensaje = "Hola, otrora nuevo mundo!";
+		public const string Mensaje = "Hola, nuevo mundo!";
 
 		public static void Main(string[] args)
 		{
